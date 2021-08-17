@@ -20,8 +20,9 @@ I really like programming, i've been doing it for years and recently i discovere
 * Futbol :soccer:
 * Gaming :space_invader:
 * Snowboarding :snowboarder:
-     
-######If you want to contact me i'll leave my [email](mailto:julian.zambroni@gmail.com) or here is my [linkedin.](https://www.linkedin.com/in/julian-zambroni)
+    
+<p>If you want to contact me i'll leave my</p>[email](mailto:julian.zambroni@gmail.com)<p>or here is my</p>[linkedin.](https://www.linkedin.com/in/julian-zambroni)
+
     
 <!--
 **julian119988/julian119988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
