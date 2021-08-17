@@ -14,7 +14,7 @@
   
 </p> 
     
-###### About me
+## About me
 
 I really like programming, i've been doing it for years and recently i discovered web programming, honestly i am enjoying it so much.
 <br/>Other hobbies that i have:
