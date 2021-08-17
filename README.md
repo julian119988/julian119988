@@ -14,13 +14,13 @@
 </p> 
     
 #### About me
-    
+    <p align="left">
     I really like programming, i've been doing it for years and recently i discovered web programming, honestly i am enjoying it so much.
     Other hobbies that i have:
       * Futbol :soccer:
       * Gaming :space_invader:
       * Snowboarding :snowboarder:
-    
+    </p> 
 
 <!--
 **julian119988/julian119988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
