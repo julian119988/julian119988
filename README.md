@@ -21,7 +21,7 @@ I really like programming, i've been doing it for years and recently i discovere
 * Gaming :space_invader:
 * Snowboarding :snowboarder:
     
-<p>If you want to contact me i'll leave my</p>[email](mailto:julian.zambroni@gmail.com)<p>or here is my</p>[linkedin.](https://www.linkedin.com/in/julian-zambroni)
+    <p>If you want to contact me i'll leave my<a href="mailto:julian.zambroni@gmail.com">email</a>or here is my<a href="https://www.linkedin.com/in/julian-zambroni">linkeding.</a></p>
 
     
 <!--
