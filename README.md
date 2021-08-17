@@ -12,6 +12,15 @@
   <a href="https://github.com/julian119988/chat-room-app"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=julian119988&repo=chat-room-app&layout=compact&theme=gruvbox">
   <a href="https://github.com/julian119988/donde-estan-mis-libros"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=julian119988&repo=donde-estan-mis-libros&hide=html,scss,css&langs_count=10&layout=compact&theme=gruvbox">
 </p> 
+    
+#### About me
+    
+    I really like programming, i've been doing it for years and recently i discovered web programming, honestly i am enjoying it so much.
+    Other hobbies that i have:
+      * Futbol :soccer:
+      * Gaming :space_invader:
+      * Snowboarding :snowboarder:
+    
 
 <!--
 **julian119988/julian119988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
